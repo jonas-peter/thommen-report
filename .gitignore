@@ -1,0 +1,13 @@
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+*.pdf
+*.toc
+*.acr
+*.cls
+
+figures_old/
+figures_general/
+old/
